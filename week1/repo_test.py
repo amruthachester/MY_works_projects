@@ -1,1 +1,1 @@
-print("This is a test.")
+print("This is a test\nThis is a new line")
