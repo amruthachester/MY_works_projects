@@ -4,5 +4,5 @@ if first_number<second_number:
     print("first number is smallest")
 elif first_number>second_number:
     print("second number is smallest")
-elif first_number==second_number:
+else:
     print("The both numbers are equal")
